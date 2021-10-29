@@ -168,3 +168,18 @@ body {
 .at-share-btn-elements {
     margin-top: 30px;
 }
+
+.ad-banner {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.ad-big {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.ad-small {
+    width: 320;
+    margin: 0 auto;
+}
